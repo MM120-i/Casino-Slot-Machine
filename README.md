@@ -22,3 +22,9 @@ This project is an implementation of a simple casino-style slot machine using Ja
 
 This simple slot machine project provides an enjoyable and interactive gambling experience. Users can deposit, configure their bets, and spin the reels in the hopes of winning big. The game loop ensures an engaging and continuous gaming experience until the player decides to quit or runs out of funds.
 
+**Changelog / Updates:**
+
+**September 05, 2023:**
+- Improved code readability by adding more comments for readers.
+- Resolved an issue where the code would exit prematurely, even when the player's input was 'Y'. 
+
